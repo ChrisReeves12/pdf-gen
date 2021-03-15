@@ -1,0 +1,5 @@
+body .form-field-error {
+    color: #b33232;
+    font-size: 13px;
+    margin-top: 5px;
+}
